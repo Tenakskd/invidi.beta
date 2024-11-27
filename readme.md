@@ -25,10 +25,10 @@ cookieにyuki=Trueを設定すると認証されます。
 <br>
 ## デプロイ
 (slim-2-by-siawaseok.gitがデプロイされます)<br>
-<a href="https://render.com/deploy?repo=https://github.com/Tenakskd/invidi.link">
+<a href="https://render.com/deploy?repo=https://github.com/Tenakskd/invidi.beta">
  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"><br>
 </a>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/tenakskd/punycoder-pass-test.git">
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/tenakskd/invidi.beta.git">
   <img src="https://vercel.com/button" alt="Deployto Vercel">
 </a>
 
